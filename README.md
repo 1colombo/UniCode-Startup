@@ -1,27 +1,37 @@
 <p align="center">
-  <br>
-  <br>
+  <img src="./UniCode-logo-transparente.png" alt="Logo UniCode" width="500"/>
 </p>
 
 # `{Uni}code` - Projeto de E-commerce MVP
-
-**Projeto desenvolvido para a disciplina de Laboratório de Banco de Dados do curso de Análise e Desenvolvimento de Sistemas da FATEC Campinas.**
+***Projeto desenvolvido para o curso de Análise e Desenvolvimento de Sistemas da FATEC Campinas.***
+> 🚧 **Status:** Em desenvolvimento 🚧
 
 ## 🎯 Objetivo
 
-Desenvolver um protótipo funcional (MVP) de uma plataforma de e-commerce, focando no ciclo completo de uma venda, desde a visualização do produto até a finalização do pedido, com total integração a um banco de dados relacional.
+Essa startup tem o objetivo de desenvolver plataformas de Ecommerce em prol da sociedade unindo inovação, tecnologia e confiabilidade afim de gerar um compromisso com pequenos/médios empresários que sonham em alavancar seu negócio. 
 
 ## 👥 Equipe
 
-| Nome | Função | GitHub |
-| :--- | :--- | :--- |
-| Amon Lucena | Documentação | `@username` |
-| Gustavo Neves | Banco de Dados e Modelagem | `@username` |
-| João Vitor Colombo | Líder e Backend | `@username` |
-| Yago Henrique | UX e Frontend | `@username` |
+| Nome                   | Função                      | GitHub                                                              |
+| :--------------------- | :-------------------------- | :------------------------------------------------------------------ |
+| Amon Lucena            | Documentação                | <a href="https://github.com/username">`@username`</a>               |
+| Gustavo Neves          | Banco de Dados e Modelagem  | <a href="https://github.com/username">`@username`</a>               |
+| João Vitor Colombo     | Líder e Backend             | <a href="https://github.com/1colombo">`@1colombo`</a>               |
+| Yago Henrique          | UX e Frontend               | <a href="https://github.com/username">`@username`</a>               |
 
 ## 🛠️ Tecnologias Utilizadas
 
 * **Backend:** *Java com Spring Boot*
-* **Frontend:** *[A definir: Ex: React, Angular, Vue.js, etc.]*
+* **Frontend:** *A definir*
 * **Banco de Dados:** *MySQL*
+
+## 🏛️ Arquitetura e Modelagem
+
+**Diagrama de Classes UML** que representa a estrutura principal do nosso sistema.
+
+<p align="center">
+  <img src="./UML Classes - Ecommerce.png" alt="Diagrama de Classes UML do Projeto UniCode" />
+</p>
+
+## 💾 Modelagem de Dados
+## 💻 Telas da Aplicação (Protótipo)
