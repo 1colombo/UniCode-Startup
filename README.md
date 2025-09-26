@@ -14,10 +14,10 @@ Essa startup tem o objetivo de desenvolver plataformas de Ecommerce em prol da s
 
 | Nome                   | Função                      | GitHub                                                              |
 | :--------------------- | :-------------------------- | :------------------------------------------------------------------ |
-| Amon Lucena            | Documentação                | <a href="https://github.com/username">`@username`</a>               |
-| Gustavo Neves          | Banco de Dados e Modelagem  | <a href="https://github.com/username">`@username`</a>               |
+| Amon Lucena            | Documentação                | <a href="https://github.com/amlcn">`@amlcn`</a>               |
+| Gustavo Neves          | Banco de Dados e Modelagem  | <a href="https://github.com/BuzoisGu">`@BuzoisGu`</a>               |
 | João Vitor Colombo     | Líder e Backend             | <a href="https://github.com/1colombo">`@1colombo`</a>               |
-| Yago Henrique          | UX e Frontend               | <a href="https://github.com/username">`@username`</a>               |
+| Yago Henrique          | UX e Frontend               | <a href="https://github.com/Yagohsl">`@Yagohsl`</a>               |
 
 ## 🛠️ Tecnologias Utilizadas
 
