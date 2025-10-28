@@ -21,8 +21,8 @@ Essa startup tem o objetivo de desenvolver plataformas de Ecommerce em prol da s
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Backend:** *Java com Spring Boot*
-* **Frontend:** *A definir*
+* **Backend:** *PHP*
+* **Frontend:** *Html/CSS e Bootstrap*
 * **Banco de Dados:** *MySQL*
 
 ## 🏛️ Arquitetura e Modelagem
